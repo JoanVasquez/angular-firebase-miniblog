@@ -12,4 +12,4 @@ Whether this project helped, please donate for a coffee.
 Remember to make **npm i or npm install** in the root of the app to install the **modules**
 
 ## Demonstration
-![CKEditor](https://raw.githubusercontent.com/JoanVasquez/angular-firebase-miniblog/master/demonstration.PNG)
+![CKEditor](https://github.com/JoanVasquez/angular-firebase-miniblog/blob/master/demonstration.gif)
